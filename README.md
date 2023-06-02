@@ -4,4 +4,4 @@ Energy usage data comes from Dublin City Council (DCC). Data can be found [here]
 
 DCC small areas geometry data sourced from CSOIreland's PxStat API, made available through their R package, csodata. Information for csodata is available [here](https://github.com/CSOIreland/csodata).
 
-The interactive map can be accessed by downloading the html file, [dublin_city_residential_energy_map.html](https://github.com/ahwallace/dublin-residential-energy-usage/blob/main/dublin_city_residential_energy_map.html), in this repository.
+The interactive map can be accessed by downloading the html file, [dublin_city_residential_energy_map.html](https://github.com/ahwallace/dublin-residential-energy-usage/blob/main/dublin_city_residential_energy_map.html) [here](https://drive.google.com/file/d/114dBQwdT4iny-41dTFf6bjvAme1k0X7_/view?usp=drive_link).
